@@ -1,16 +1,18 @@
 # Árvore de Vidro 
 
-## Resumo e História do Projeto 
+### Resumo e História do Projeto 
 
-### Tudo começou quando estava pensando em desenvolver um sistema de irrigação automático. O projeto iria usar tanques de água, tubos de PVC, válvula solenóide, e um ESP8266. 
+##### Tudo começou quando estava pensando em desenvolver um sistema de irrigação automático. 
+O projeto iria usar tanques de água, tubos de PVC, válvula solenóide, e um ESP8266. 
 
-### Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com garrafas de vidro, pra criar um efeito estufa, e depois usar essa água para outra coisa (a ideia inicial seria "purificar" água de reuso de chuva). Daí vieram várias ideias diferentes, tais como utilizar água de chuva, utilizar garrafas de cerveja, e até gerar eletricidade no futuro, baseando no conceito por trás o Motor de Hero (LINK).
+##### Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com garrafas de vidro, pra criar um efeito estufa, e depois usar essa água para outra coisa (a ideia inicial seria "purificar" água de reuso de chuva).
+Daí vieram várias ideias diferentes, tais como utilizar água de chuva, utilizar garrafas de cerveja, e até gerar eletricidade no futuro, baseando no conceito por trás o Motor de Hero (LINK).
 
-### Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licensa WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
+##### Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licensa WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
 
-## Materiais empregados - versão 0.1 - Conseguir fazer a água das garrafas chegar no ponto de uso, pela ação da gravidade.
+##### Materiais empregados - versão 0.1 - Conseguir fazer a água das garrafas chegar no ponto de uso, pela ação da gravidade.
 
-### O objetivo inicial é conseguir fazer o projeto com materiais fáceis e baratos de encontrar no mercado, tais como tubos de PVC e garrafas de vidro. 
+##### O objetivo inicial é conseguir fazer o projeto com materiais fáceis e baratos de encontrar no mercado, tais como tubos de PVC e garrafas de vidro. 
 
 * Foram escolhidas _garrafas de cerveja long neck 330~355 mL_, porque são fáceis de encontrar, porque a maioria tem uma camada colorida escura (verde escuro, marrom), facilitando a criação de efeito estufa, porque são relativamente fáceis de encaixar nos tubos e conexões de PVC, porque são resistentes, e porque são pequenas (em média, 3 garrafas conseguem armazenar 1 Litro de água) e assim o peso ficará distribuído em toda a estrutura (considerando aceleração da gravidade de aproximadamente 10m/s² e densidade da água de 1 kg/m³, cada garrafa cheia pesará apenas ~3,3 N, se a mesma ficar totalmente na vertical (em cima do telhado pode diminuir ainda mais) ---> **CALCULAR DEPOIS ESSES PARÂMETROS, e a pressão (F/A) no telhado, para 45º de inclinação**
 
