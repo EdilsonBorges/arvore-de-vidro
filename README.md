@@ -6,7 +6,7 @@ Tudo começou quando estava pensando em desenvolver um sistema de irrigação au
 
 Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com garrafas de vidro, pra criar um efeito estufa, e depois usar essa água para outra coisa (a ideia inicial seria "purificar" água de reuso de chuva). Daí vieram várias ideias diferentes, tais como utilizar água de chuva, utilizar garrafas de cerveja, e até gerar eletricidade no futuro, baseando no conceito por trás o Motor de Hero (LINK).
 
-Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licensa WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
+Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licença WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
 
 ### Materiais empregados - versão 0.1 - Conseguir fazer a água das garrafas chegar no ponto de uso, pela ação da gravidade.
 
