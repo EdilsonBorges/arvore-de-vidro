@@ -82,17 +82,17 @@ Vista superior da luva de redução.
 
 ### Custos com materiais:
 
-ID | Quantidade |Descrição | Preço 
---|-----|----------|--------------------|
-1 | 3 | T PVC água fria 3/4" rosqueável | R$ 4,00
-2 | 2 | Nipel PVC água fria 3/4" | R$ 1,50
-3 | 3 | Plugue PVC água fria - 3/4" | R$ 1,50
-4 | 1 | Luva de redução 3/4" para 1/2" | R$ 1,00
-5 | 1 | Fita veda rosca 10 metros | R$ 3,00
-6 | 1 | Isqueiro pequeno | R$ 3,00
-7 | 1 | Válvula solenóide 12 V 40 cm coluna d'água 1/2" | R$ 33,90
-8 | 1 | NodeMCU versão 0.9 | R$ 24,90
-Total |  |                 | R$ 85,30
+ID | Quantidade |Descrição | Preço unitário | Preço total
+--|-----|----------|--------------------|-------|
+1 | 3 | T PVC água fria 3/4" rosqueável | R$ 4,00 | R$ 12,00
+2 | 2 | Nipel PVC água fria 3/4" | R$ 1,50 | R$ 3,00
+3 | 3 | Plugue PVC água fria - 3/4" | R$ 1,50 | R$ 4,50
+4 | 1 | Luva de redução 3/4" para 1/2" | R$ 1,00 | R$ 1,00
+5 | 1 | Fita veda rosca 10 metros | R$ 3,00 | R$ 3,00
+6 | 1 | Isqueiro pequeno | R$ 3,00 | R$ 3,00 
+7 | 1 | Válvula solenóide 12 V 40 cm coluna d'água 1/2" | R$ 33,90 | R$ 33,90
+8 | 1 | NodeMCU versão 0.9 | R$ 24,90 | R$ 24,90
+Total |  |                 |  | R$ 85,30 
 
 * Capacidade de garrafas no momento: 2 
 * Capacidade volumétrica: 660 ~ 710 mL
@@ -111,7 +111,7 @@ Perguntas:
 
 - [ ] Fazer testes usando sensores de temperatura conectados diretamente nas garrafas, submetidos a uma mesma incidência (garrafas próximas umas das outras) e monitorar de forma online. Plotar aqui os resultados em forma de gráfico.
 
-De acordo com esse outro link da seção de Física do site StackExchange, [Increase of temperature by sunlight] (https://physics.stackexchange.com/questions/68611/how-much-does-sunlight-affect-inside-temperature), a quantidade de energia que entra em um recipiente/sala, é proporcional à área de suas aberturas/janelas, bem como do ângulo de incidência, características do vidro, etc. Dessa forma, os colimadores reflexivos serão bons para aproveitar uma área de incidência maior que o tamanho da garrafa, porém, não podem ser caros demais, como isso aqui: [Ivanpah Solar Power Facility] (https://en.wikipedia.org/wiki/Ivanpah_Solar_Power_Facility). Terá que ser um material fácil e leve, e que encaixe por baixo da matriz de garrafas/canos (árvore ou trepadeira de vidro). Pode até ser uma chapa de apoio, e assim facilitar a instalação em telhados, paredes, muros, etc. 
+De acordo com esse outro link da seção de Física do site StackExchange, [Increase of temperature by sunlight](https://physics.stackexchange.com/questions/68611/how-much-does-sunlight-affect-inside-temperature), a quantidade de energia que entra em um recipiente/sala, é proporcional à área de suas aberturas/janelas, bem como do ângulo de incidência, características do vidro, etc. Dessa forma, os colimadores reflexivos serão bons para aproveitar uma área de incidência maior que o tamanho da garrafa, porém, não podem ser caros demais, como isso aqui: [Ivanpah Solar Power Facility](https://en.wikipedia.org/wiki/Ivanpah_Solar_Power_Facility). Terá que ser um material fácil e leve, e que encaixe por baixo da matriz de garrafas/canos (árvore ou trepadeira de vidro). Pode até ser uma chapa de apoio, e assim facilitar a instalação em telhados, paredes, muros, etc. 
 
 O link ainda diz que a maior parte do aquecimento de ambientes se dá pela incidência solar em superfícies sólidas. Para esse projeto estamos usando um fluido (água), então é preciso ver se funcionaria da mesma forma. 
 
