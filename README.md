@@ -24,57 +24,58 @@ O objetivo inicial é conseguir fazer o projeto com materiais fáceis e baratos 
 
 As fotos abaixo ilustram o passo a passo da construção do sistema.
 
-![1 - Garrafa de vidro](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/1-garrafa de vidro.jpg)
+![1 - Garrafa de vidro](/tree/master/Imagens/1-garrafa-de-vidro.jpg)
 
-![2 - Isqueiro](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/2-isqueiro.jpg)
+![2 - Isqueiro](/tree/master/Imagens/2-isqueiro.jpg)
 
-![3 - Fita Veda Rosca](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/3-fita veda rosca.jpg)
+![3 - Fita Veda Rosca](/tree/master/Imagens/3-fita-veda-rosca.jpg)
 
-![4 - Materiais](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/4-materiais.jpg)
+![4 - Materiais](/tree/master/Imagens/4-materiais.jpg)
 
-![5 - Luva de redução - Frente](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/5-luva de redução-lateral.jpg)
+![5 - Luva de redução - Frente](/tree/master/Imagens/5-luva-de-reducao-lateral.jpg)
 
-![6 - Luva de redução - Cima](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/6-luva de redução-frente.jpg)
+![6 - Luva de redução - Cima](/tree/master/Imagens/6-luva-de-reducao-frente.jpg)
 
-![7 - T aquecido com garrafa quente](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/7-T aquecido.jpg)
+![7 - T aquecido com garrafa quente](/tree/master/Imagens/7-T-aquecido.jpg)
 
-![8 - válvula solenóide 12V](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/8-válvula solenóide.jpg)
+![8 - válvula solenóide 12V](/tree/master/Imagens/8-valvula-solenoide.jpg)
 
-![9 - Esquema versão 0.1](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/9-esquema versão 0.1.jpg)
+![9 - Esquema versão 0.1](/tree/master/Imagens/9-esquema-versao-0.1.jpg)
 
-![10 - Primeiro plugue conectado - Vista de lado](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/10-primeiro plugue-lareral.jpg)
+![10 - Primeiro plugue conectado - Vista de lado](/tree/master/Imagens/10-primeiro-plugue-lareral.jpg)
 
-![11 - Primeiro plugue com veda rosca](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/11-primeiro plugue-frente)
+![11 - Primeiro plugue com veda rosca](/tree/master/Imagens/11-primeiro-plugue-frente)
 
-![12 - Teste com água - Plugue horizontal](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/12-teste com água-horizontal.jpg)
+![12 - Teste com água - Plugue horizontal](/tree/master/Imagens/12-teste-com-agua-horizontal.jpg)
 
-![13 - Teste com água - Plugue vertical](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/13-teste com água - vertical.jpg)
+![13 - Teste com água - Plugue vertical](/tree/master/Imagens/13-teste-com-agua-vertical.jpg)
 
-![14 - Alicate para apertar primeiro nípel](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/14-alicate para nipel.jpg)
+![14 - Alicate para apertar primeiro nípel](/tree/master/Imagens/14-alicate-para-nipel.jpg)
 
-![15 - Esquema esqueleto - Vista de perspectiva](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/15-estrutura em perspectiva.jpg)
+![15 - Esquema esqueleto - Vista de perspectiva](/tree/master/Imagens/15-estrutura-em-perspectiva.jpg)
 
-![16 - Teste com água](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/16-teste com água-estrutura.jpg)
+![16 - Teste com água](/tree/master/Imagens/16-teste-com-agua-estrutura.jpg)
 
-![17 - Esquentando a boca da garrafa](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/17-esquentando garrafa.jpg)
+![17 - Esquentando a boca da garrafa](/tree/master/Imagens/17-esquentando-garrafa.jpg)
 
-![18 - Garrafa conectada](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/18-garrafa conectada.jpg)
+![18 - Garrafa conectada](/tree/master/Imagens/18-garrafa-conectada.jpg)
 
-![19 - Versão 0.1 com rosca](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/19-esquema garrafa pronta.jpg)
+![19 - Versão 0.1 com rosca](/tree/master/Imagens/19-esquema-garrafa-pronta.jpg)
 
-![20 - Versão 0.1 - Pronta](https://github.com/arthurmoises/arvore-de-vidro/tree/master/Imagens/20-versão 0.1 finalizada.jpg)
+![20 - Versão 0.1 - Pronta](/tree/master/Imagens/20-versao-0.1-finalizada.jpg)
 
 ### Custos com materiais:
 
-N - Qtd - Descrição - Preço (fazer tabela)
-1 - 3 - T PVC água fria 3/4" rosqueável - R$ 4,00
-2 - 2 - Nipel PVC água fria 3/4" - R$ 1,50
-3 - 3 - Plugue PVC água fria - 3/4" - R$ 1,50
-4 - 1 - Luva de redução 3/4" para 1/2" - R$ 1,00
-5 - 1 - Fita veda rosca 10 metros - R$ 3,00
-6 - 1 - Isqueiro pequeno - R$ 3,00
-7 - 1 - Válvula solenóide 12 V 40 cm coluna d'água 1/2" - R$ 33,90
-8 - 1 - NodeMCU 0.9 - R$ 24,90
+N | Qtd |Descrição | Preço (fazer tabela)
+--|-----|----------|--------------------|
+1 | 3 | T PVC água fria 3/4" rosqueável | R$ 4,00
+2 | 2 | Nipel PVC água fria 3/4" | R$ 1,50
+3 | 3 | Plugue PVC água fria - 3/4" | R$ 1,50
+4 | 1 | Luva de redução 3/4" para 1/2" | R$ 1,00
+5 | 1 | Fita veda rosca 10 metros | R$ 3,00
+6 | 1 | Isqueiro pequeno | R$ 3,00
+7 | 1 | Válvula solenóide 12 V 40 cm coluna d'água 1/2" | R$ 33,90
+8 | 1 | NodeMCU versão 0.9 | R$ 24,90
 
 Total : R$ 85,30
 Capacidade de garrafas no momento: 2 
@@ -83,11 +84,11 @@ Custo de expansão (R$/cada garrafa extra): R$ 7,00 (1 nípel + 1 plugue + 1 T)
 
 ### Futuro
 
-* Descobrir até quantos graus celsius pode chegar a temperatura da água na garrafa (radiação solar de Goiânia de 700 a 1000 W/m²)
-* Comprar TIP120 e fonte 12V para implementar controlador da válvula
-* Achar distribuidores com preço acessível para sensor de temperatura (DS18B20) e de vazão de água (1/2")
-* Desenvolver software que regule pressão e temperatura da água/vapor no interior das garrafas
-* Detalhar passo a passo
-* Adicionar novos modelos de nós (folhas de vidro), com sustentação, com subida (milho de vidro)
-* Projetar sistema que possibilite instalação com caixa d'água e telhado
+- [ ] Descobrir até quantos graus celsius pode chegar a temperatura da água na garrafa (radiação solar de Goiânia de 700 a 1000 W/m²)
+- [ ] Comprar TIP120 e fonte 12V para implementar controlador da válvula
+- [ ] Achar distribuidores com preço acessível para sensor de temperatura (DS18B20) e de vazão de água (1/2")
+- [ ] Desenvolver software que regule pressão e temperatura da água/vapor no interior das garrafas
+- [ ] Detalhar passo a passo
+- [ ] Adicionar novos modelos de nós (folhas de vidro), com sustentação, com subida (milho de vidro)
+- [ ] Projetar sistema que possibilite instalação com caixa d'água e telhado
 
