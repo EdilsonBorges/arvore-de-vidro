@@ -98,6 +98,25 @@ Total |  |                 | R$ 85,30
 * Capacidade volumétrica: 660 ~ 710 mL
 * Custo de expansão (R$/cada garrafa extra): R$ 7,00 (1 nípel + 1 plugue + 1 T)
 
+### Princípio físico:
+
+De acordo com esse link da seção de Física do site StackExchange, [Heat trapped inside car on sunny day](https://physics.stackexchange.com/questions/14185/heat-in-the-car-during-sunny-day), a maior parte da energia do sol está no espectro visível de radiação. Apenas uma pequena parte se encontra na faixa não visível (IR e UV). A energia absorvida é radiada de volta na forma de onda Infravermelha (calor), mas o vidro funciona como um escudo opaco para esse comprimento de onda, fazendo com que o calor se mantenha no interior do veículo/recipiente. A mesma explicação pro "Efeito Estufa".
+
+Dessa forma, a hipótese é que a água no interior da garrafa de vidro vai aquecer (podendo ser usados colimadores espelhados, para aumentar a eficiência) com os raios solares, que por serem a maioria no espectro visível, irão passar o vidro e aquecer a água. O vidro funcionará como um escudo para os raios infravermelhos que queiram sair, mantendo o líquido aquecido. 
+
+Perguntas: 
+
+1. Diante disso, é melhor que a garrafa seja transparente, assim mais raios de sol entrariam (o comprimento de onda da cor verde não seria refletida?)
+2. Uma garrafa colorida, ou até mesmo escura, impediria os raios infravermelhos de saírem? Ou, por bloquearem a entrada de raios do sol naquela faixa de cor, demoraria mais para aquecer a mistura? 
+
+- [ ] Fazer testes usando sensores de temperatura conectados diretamente nas garrafas, submetidos a uma mesma incidência (garrafas próximas umas das outras) e monitorar de forma online. Plotar aqui os resultados em forma de gráfico.
+
+De acordo com esse outro link da seção de Física do site StackExchange, [Increase of temperature by sunlight] (https://physics.stackexchange.com/questions/68611/how-much-does-sunlight-affect-inside-temperature), a quantidade de energia que entra em um recipiente/sala, é proporcional à área de suas aberturas/janelas, bem como do ângulo de incidência, características do vidro, etc. Dessa forma, os colimadores reflexivos serão bons para aproveitar uma área de incidência maior que o tamanho da garrafa, porém, não podem ser caros demais, como isso aqui: [Ivanpah Solar Power Facility] (https://en.wikipedia.org/wiki/Ivanpah_Solar_Power_Facility). Terá que ser um material fácil e leve, e que encaixe por baixo da matriz de garrafas/canos (árvore ou trepadeira de vidro). Pode até ser uma chapa de apoio, e assim facilitar a instalação em telhados, paredes, muros, etc. 
+
+O link ainda diz que a maior parte do aquecimento de ambientes se dá pela incidência solar em superfícies sólidas. Para esse projeto estamos usando um fluido (água), então é preciso ver se funcionaria da mesma forma. 
+
+- [ ] Fazer testes de medição em temperatura em garrafas vazia e com água, e verificar a diferença. Medir em tempo real durante um dia e postar aqui em forma de gráficos os resultados.
+
 ### Futuro
 
 - [ ] Descobrir até quantos graus celsius pode chegar a temperatura da água na garrafa (radiação solar de Goiânia de 700 a 1000 W/m²)
