@@ -26,15 +26,31 @@ As fotos abaixo ilustram o passo a passo da construção do sistema.
 
 ![1 - Garrafa de vidro](/Imagens/1-garrafa-de-vidro.jpg)
 
+Ao utilizar garrafas de vidro temos ao menos 3 vantagens:
+
+1. Baixíssimo custo (pessoas jogam garrafas de cerveja fora todo dia, ainda mais em bares, festas, etc). 
+2. Fácil de gerar efeito estufa no interior
+3. Sistema modular, em que basta acrescentar uma garrafa, um T e um plugue de PVC para expandir.
+
 ![2 - Isqueiro](/Imagens/2-isqueiro.jpg)
+
+O isqueiro é um item que muitas pessoas possuem em bares. Como o projeto foi pensado tendo em mente um bar de rock, uma pessoa poderia adicionar sua garrafa de cerveja recém esvaziada ao sistema, no intervalo de um cigarro e outro, usando seu isqueiro.
 
 ![3 - Fita Veda Rosca](/Imagens/3-fita-veda-rosca.jpg)
 
+A fita veda rosca é um item barato e muito útil. Com ela garante-se que a garrafa e as demais junções não irão vazar água, temperatura ou pressão.
+
 ![4 - Materiais](/Imagens/4-materiais.jpg)
+
+Acima está a lista de todos os materiais com suas descrições.
 
 ![5 - Luva de redução - Frente](/Imagens/5-luva-de-reducao-lateral.jpg)
 
+A luva de redução é usada para reduzir o diâmetro dos Ts de PVC de 3/4" para o diâmetro da válvula solenóide, que é de 1/2". 
+
 ![6 - Luva de redução - Cima](/Imagens/6-luva-de-reducao-frente.jpg)
+
+Vista superior da luva de redução.
 
 ![7 - T aquecido com garrafa quente](/Imagens/7-T-aquecido.jpg)
 
@@ -76,7 +92,7 @@ ID | Quantidade |Descrição | Preço
 6 | 1 | Isqueiro pequeno | R$ 3,00
 7 | 1 | Válvula solenóide 12 V 40 cm coluna d'água 1/2" | R$ 33,90
 8 | 1 | NodeMCU versão 0.9 | R$ 24,90
-Total | R$ 85,30
+Total |  |                 | R$ 85,30
 
 * Capacidade de garrafas no momento: 2 
 * Capacidade volumétrica: 660 ~ 710 mL
@@ -88,7 +104,7 @@ Total | R$ 85,30
 - [ ] Comprar TIP120 e fonte 12V para implementar controlador da válvula
 - [ ] Achar distribuidores com preço acessível para sensor de temperatura (DS18B20) e de vazão de água (1/2")
 - [ ] Desenvolver software que regule pressão e temperatura da água/vapor no interior das garrafas
-- [ ] Detalhar passo a passo
+- [ ] Detalhar passo a passo, items 7 a 20.
 - [ ] Adicionar novos modelos de nós (folhas de vidro), com sustentação, com subida (milho de vidro)
 - [ ] Projetar sistema que possibilite instalação com caixa d'água e telhado
 
