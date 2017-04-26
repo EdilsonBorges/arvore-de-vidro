@@ -44,7 +44,7 @@ As fotos abaixo ilustram o passo a passo da construção do sistema.
 
 ![10 - Primeiro plugue conectado - Vista de lado](/Imagens/10-primeiro-plugue-lareral.jpg)
 
-![11 - Primeiro plugue com veda rosca](/Imagens/11-primeiro-plugue-frente)
+![11 - Primeiro plugue com veda rosca](/Imagens/11-primeiro-plugue-frente.jpg)
 
 ![12 - Teste com água - Plugue horizontal](/Imagens/12-teste-com-agua-horizontal.jpg)
 
@@ -76,7 +76,6 @@ ID | Quantidade |Descrição | Preço
 6 | 1 | Isqueiro pequeno | R$ 3,00
 7 | 1 | Válvula solenóide 12 V 40 cm coluna d'água 1/2" | R$ 33,90
 8 | 1 | NodeMCU versão 0.9 | R$ 24,90
-------|---------------------------------
 Total | R$ 85,30
 
 * Capacidade de garrafas no momento: 2 
