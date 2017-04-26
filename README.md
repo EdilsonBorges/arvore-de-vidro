@@ -4,7 +4,7 @@
 
 Tudo começou quando estava pensando em desenvolver um sistema de irrigação automático. O projeto iria usar tanques de água, tubos de PVC, válvula solenóide, e um ESP8266. 
 
-Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com garrafas de vidro, pra criar um efeito estufa, e depois usar essa água para outra coisa (a ideia inicial seria "purificar" água de reuso de chuva). Daí vieram várias ideias diferentes, tais como utilizar água de chuva, utilizar garrafas de cerveja, e até gerar eletricidade no futuro, baseando no conceito por trás o Motor de Hero, também conhecido como [Aeolipile](https://www.youtube.com/watch?v=WLeOBITkknk).
+Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com garrafas de vidro, pra criar um efeito estufa, e depois usar essa água para outra coisa (a ideia inicial seria "purificar" água de reuso de chuva). Daí vieram várias ideias diferentes, tais como utilizar água de chuva, utilizar garrafas de cerveja, e até gerar eletricidade no futuro, baseando no conceito por trás o Motor de Hero, também conhecido como [Aeolipile](https://www.youtube.com/watch?v=9K_r8BUXoMw).
 
 Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licença WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
 
