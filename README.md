@@ -8,7 +8,7 @@ Depois, novas ideias foram surgindo e pensei em um sistema de aquecimento com ga
 
 Pra não ficar na teoria, decidi comprar os materiais e começar a fazer alguma coisa. Nesse projeto, tudo será documentado, desde como as ideias foram surgindo (como vocês podem ver pelos dois parágrafos acima), até a forma de como conectar os materiais, como conseguir, aonde comprar, os preços que achei no mercado e até os parâmetros técnicos de projeto. Tudo feito em cima da licença WTFPL, então, "faça o que quiser" com as informações que achar aqui. 
 
-### Materiais empregados - versão 0.1 - Conseguir fazer a água das garrafas chegar no ponto de uso, pela ação da gravidade.
+### Versão 0.1 - Objetivo: Conseguir fazer a água das garrafas chegar no ponto de uso, pela ação da gravidade.
 
 O objetivo inicial é conseguir fazer o projeto com materiais fáceis e baratos de encontrar no mercado, tais como tubos de PVC e garrafas de vidro. 
 
@@ -102,7 +102,7 @@ Total |  |                 |  | R$ 85,30
 
 De acordo com esse link da seção de Física do site StackExchange, [Heat trapped inside car on sunny day](https://physics.stackexchange.com/questions/14185/heat-in-the-car-during-sunny-day), a maior parte da energia do sol está no espectro visível de radiação. Apenas uma pequena parte se encontra na faixa não visível (IR e UV). A energia absorvida é radiada de volta na forma de onda Infravermelha (calor), mas o vidro funciona como um escudo opaco para esse comprimento de onda, fazendo com que o calor se mantenha no interior do veículo/recipiente. A mesma explicação pro "Efeito Estufa".
 
-Dessa forma, a hipótese é que a água no interior da garrafa de vidro vai aquecer (podendo ser usados colimadores espelhados, para aumentar a eficiência) com os raios solares, que por serem a maioria no espectro visível, irão passar o vidro e aquecer a água. O vidro funcionará como um escudo para os raios infravermelhos que queiram sair, mantendo o líquido aquecido. 
+Dessa forma, a hipótese é que a água no interior da garrafa de vidro vai aquecer (podendo ser usados colimadores espelhados, para aumentar a eficiência) com os raios solares, que por serem a maioria no espectro visível, irão passar o vidro e aquecer a água. O vidro funcionará como um escudo para os raios infravermelhos que queiram sair, mantendo o líquido aquecido. Um jeito simples de fazer colimadores com espelho de aço inoxidável: [DIY Parabolic Through Mirror)[https://www.youtube.com/watch?v=St-0HWKAY4k].
 
 Perguntas: 
 
