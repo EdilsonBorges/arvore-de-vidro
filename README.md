@@ -180,7 +180,13 @@ Dessa forma, é possível aquecer uma área pequena com raios solares, utilizand
 
 Percebi que um dos maiores gargalos para conseguir aproveitar a luz do Sol com muita eficiente, através de [lentes de Fresnel](https://www.youtube.com/watch?v=drE54ctrHBY), por exemplo, é conseguir seguir o movimento do sol durante todo o dia. Ainda assim isso não é novidade, já que existem diversas formas de fazer isso. Eu escolhi fazer utilizando motores de passo, acelerômetro e 4 LDRs. Seguem as fotos do que eu rabisquei nos últimos dias. Ainda vou organizar todas as informações. 
 
-![21 - Imagens](/Imagens/6-luva-de-reducao-frente.jpg)
+![21 - Rascunho 1](/Imagens/rascunho1.jpg)
+
+![22 - Rascunho 2](/Imagens/rascunho2.jpg)
+
+![23 - Rascunho 3](/Imagens/rascunho3.jpg)
+
+![24 - Rascunho 4](/Imagens/rascunho4.jpg)
 
 
 ### Futuro
